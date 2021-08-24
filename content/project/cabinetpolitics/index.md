@@ -3,6 +3,7 @@ title: Cabinet politics in Africa
 summary: What are the causes and consequences of cabinet politics in Africa?
 tags:
 - African Politics
+- Cabinet Politics
 date: "2021-08-23"
 
 # Optional external URL for project (replaces project detail page).
