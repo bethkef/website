@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Peace Research*"
----
 
+projects: ["NVR"]
+
+---

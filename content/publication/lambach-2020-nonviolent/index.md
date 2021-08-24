@@ -7,5 +7,8 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: "*Springer Nature*"
+
+projects: ["NVR"]
+
 ---
 
