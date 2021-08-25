@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Global Cooperation Research Papers*"
+
+doi: "https://doi.org/10.14282/2198-0411-GCRP-14"
 ---
 

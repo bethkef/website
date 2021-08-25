@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Zeitschrift für Friedens-und Konfliktforschung*"
+
+doi: "https://doi.org/10.1007/s42597-020-00038-w"
 ---
 

@@ -6,6 +6,8 @@ authors: ["Julia Strasheim", "Felix Haaß", "Felix S Bethke"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Politik und Verantwortung*"
+publication: "*PVS-Sonderheft: Politik und Verantwortung*"
+
+doi: "https://doi.org/10.5771/9783845271934-288"
 ---
 

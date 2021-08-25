@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Forschungsjournal Soziale Bewegungen*"
+
+doi: "https://doi.org/10.1515/fjsb-2020-0057"
 ---
 

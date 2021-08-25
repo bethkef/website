@@ -7,5 +7,10 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Duisburg: INEF-Report*"
+
+doi: "https://duepublico2.uni-due.de/receive/duepublico_mods_00041603"
+
+
 ---
+
 

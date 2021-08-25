@@ -9,5 +9,7 @@ featured: false
 publication: "*Journal of Peace Research*"
 
 projects: ["NVR"]
+doi: "https://doi.org/10.1177%2F0022343316658090"
+
 
 ---

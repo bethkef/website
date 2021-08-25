@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*A Multi-disciplinary Mosaic: Reflections on Global Cooperation and Migration*"
+
+doi: "http://dx.doi.org/10.14282/2198-0403-GD-13"
+
 ---
 

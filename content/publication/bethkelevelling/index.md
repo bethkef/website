@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*The Journal of Resistance Studies*"
+
+doi: "https://www.academia.edu/42970126/Levelling_the_Political_Playing_Field_How_Nonviolent_Resistance_Influences_Power_Relations_After_Democratic_Transition"
 ---
 

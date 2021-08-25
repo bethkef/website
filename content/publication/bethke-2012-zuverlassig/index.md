@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Zeitschrift für Vergleichende Politikwissenschaft*"
+
+doi: "https://doi.org/10.1007/s12286-012-0122-9"
 ---
 

@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Peace Economics, Peace Science and Public Policy*"
+
+doi: "https://doi.org/10.1515/peps-2012-0002"
+
 ---
 

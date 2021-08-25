@@ -7,5 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of International Relations and Development*"
+
+doi: "https://doi.org/10.1057/jird.2012.30"
 ---
 
