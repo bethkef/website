@@ -6,7 +6,7 @@ authors: ["Felix S Bethke"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Zeitschrift für Vergleichende Politikwissenschaft*"
+publication: "*Zeitschrift für Vergleichende Politikwissenschaft*, issue 6, pages 19–37"
 
 doi: "https://doi.org/10.1007/s12286-012-0122-9"
 ---

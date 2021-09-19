@@ -10,7 +10,7 @@ publication: "*Springer Nature*"
 
 projects: ["NVR"]
 
-doi: "https://link.springer.com/book/10.1007%2F978-3-030-39371-7"
+url_link: "https://link.springer.com/book/10.1007%2F978-3-030-39371-7"
 
 ---
 

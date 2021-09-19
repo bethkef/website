@@ -6,7 +6,7 @@ authors: ["Christian Bueger", "Felix Bethke"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of International Relations and Development*"
+publication: "*Journal of International Relations and Development*, Volume 17, issue: 1, pages: 30–60"
 
 doi: "https://doi.org/10.1057/jird.2012.30"
 ---

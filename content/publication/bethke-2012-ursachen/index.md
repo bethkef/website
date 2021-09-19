@@ -6,9 +6,9 @@ authors: ["Felix S Bethke", "Daniel Lambach"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Duisburg: INEF-Report*"
+publication: "*INEF-Report*, 112"
 
-doi: "https://duepublico2.uni-due.de/receive/duepublico_mods_00041603"
+url_pdf: "https://duepublico2.uni-due.de/receive/duepublico_mods_00041603"
 
 
 ---

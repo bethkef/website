@@ -6,7 +6,7 @@ authors: ["Felix Bethke", "Jonas Wolff"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Forschungsjournal Soziale Bewegungen*"
+publication: "*Forschungsjournal Soziale Bewegungen*, Volume: 33, issue: 3, pages: 671-676"
 
 doi: "https://doi.org/10.1515/fjsb-2020-0057"
 ---

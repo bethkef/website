@@ -6,7 +6,7 @@ authors: ["Felix S Bethke", "Jonas Wolff"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Zeitschrift für Friedens-und Konfliktforschung*"
+publication: "*Zeitschrift für Friedens-und Konfliktforschung*, issue: 9, pages: 363–374"
 
 doi: "https://doi.org/10.1007/s42597-020-00038-w"
 ---
