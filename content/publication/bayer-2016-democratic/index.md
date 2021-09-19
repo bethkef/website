@@ -6,7 +6,7 @@ authors: ["Markus Bayer", "Felix S Bethke", "Daniel Lambach"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of Peace Research*"
+publication: "*Journal of Peace Research*, Volume: 53 issue: 6, pages: 758-771"
 
 projects: ["NVR"]
 doi: "https://doi.org/10.1177%2F0022343316658090"
